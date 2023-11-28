@@ -1,4 +1,6 @@
-## Privacy Policy
+---
+title: Privacy Policy
+---
 
 <h1>Privacy Policy for OpenGolf</h1>
 
