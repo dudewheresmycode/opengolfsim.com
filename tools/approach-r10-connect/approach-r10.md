@@ -31,7 +31,7 @@ This guide will walk you through the steps to use your Garmin Approach R10 with 
   </tr>
   <tr>
     <td>
-3. The first time we use this option, we'll need do some setup. On the next screen click the **Gear** icon.
+3. The first time we use this option, we'll need do some setup. On the next screen click the <b>Gear</b> icon.
     </td>
     <td halign="center">
       <a href="/assets/garmin-golf/2-e6-settings.jpg" target="_blank">
@@ -51,7 +51,7 @@ This guide will walk you through the steps to use your Garmin Approach R10 with 
   </tr>
   <tr>
     <td>
-5. Select **Test Connection**. If everything connected ok, you should now be able to select <b>Start Session</b>, or <b>Play on PC</b> from the main menu.
+5. Select <b>Test Connection</b>. If everything connected ok, you should now be able to select <b>Start Session</b>, or <b>Play on PC</b> from the main menu.
     </td>
     <td halign="center">
       <a href="/assets/garmin-golf/4-e6-start.jpg" target="_blank">
