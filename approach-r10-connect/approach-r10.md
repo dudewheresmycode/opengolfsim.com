@@ -58,8 +58,8 @@ This guide will walk you through the steps to use your Garmin Approach R10 with 
 <br />
 
 <div style="text-align: center;">
-  <p>Huzzah! 🎉 Now your shots should now be flowing to GSPro, assuming you've <a href="connect-gspro">set that up</a> as well. May The Fores Be With You!</p>
+  <p>Huzzah! 🎉 Now your shots should now be flowing to GSPro, assuming you've <a href="gspro.html">set that up</a> as well. May The Fores Be With You!</p>
   <img src="https://media.giphy.com/media/l23bRTPezLRZz0ks58/giphy.gif" width="300" />
 </div>
 
-### Up Next: [Connecting GSPro](./connect-gspro)
+### Up Next: [Connecting GSPro](./gspro){: .btn }
