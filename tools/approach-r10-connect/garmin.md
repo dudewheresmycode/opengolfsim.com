@@ -1,16 +1,16 @@
 ---
-title: Connect Approach R10
+title: Connect Garmin Golf
 parent: Approach R10 Connect
 grand_parent: Tools
 ---
 
 # Connecting Garmin Approach R10
 
-This guide will walk you through the steps to use your Garmin Approach R10 with GSPro Golf Simulator, using the [Approach R10 Connect](/tools/approach-r10-connect/) app.
+This guide will walk you through the steps to use your Garmin Approach R10 with GSPro Golf Simulator, using the [Approach R10 Connect](/tools/approach-r10-connect/) app. Make sure you have that app installed and running on your PC, before you follow this guide.
 
 {: .note }
 
-> The first time you turn on the device, it automatically enters pairing mode, and the status LED is solid blue. You can also hold the button while the device is off until the status LED turns solid blue to manually enter pairing mode. [More information](https://tinyurl.com/yzwh468u)
+> The first time you turn on the device, it automatically enters pairing mode, and the status LED is solid blue. You can also hold the button while the device is off until the status LED turns solid blue to manually enter pairing mode. <a href="https://tinyurl.com/yzwh468u" target="_blank">More information</a>
 
 <table>
   <tr>
