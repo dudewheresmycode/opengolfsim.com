@@ -33,7 +33,7 @@ That's the plan at least. I'll try and keep this article updated with my progres
 
 Links:
 
-- https://twocanoes.com/knowledge-base/capture-bluetooth-packet-trace-on-ios/
-- https://www.bluetooth.com/blog/a-new-way-to-debug-iosbluetooth-applications/
-- https://wiki.wireshark.org/CaptureSetup/Bluetooth
-- https://github.com/OpenFenix/bluetooth-sniffer
+- [https://twocanoes.com/knowledge-base/capture-bluetooth-packet-trace-on-ios/](https://twocanoes.com/knowledge-base/capture-bluetooth-packet-trace-on-ios/){:target="\_blank"}
+- [https://www.bluetooth.com/blog/a-new-way-to-debug-iosbluetooth-applications/](https://twocanoes.com/knowledge-base/capture-bluetooth-packet-trace-on-ios/){:target="\_blank"}
+- [https://wiki.wireshark.org/CaptureSetup/Bluetooth](https://wiki.wireshark.org/CaptureSetup/Bluetooth){:target="\_blank"}
+- [https://github.com/OpenFenix/bluetooth-sniffer](https://github.com/OpenFenix/bluetooth-sniffer){:target="\_blank"}
