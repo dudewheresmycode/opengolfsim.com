@@ -1,6 +1,7 @@
 ---
 title: GSPro Setup Guide
 parent: Approach R10 Connect
+grand_parent: Tools
 ---
 
 ## GSPro Setup Guide
