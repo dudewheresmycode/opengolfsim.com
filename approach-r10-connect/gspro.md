@@ -18,4 +18,4 @@ parent: Approach R10 Connect
 
 > Note: It shouldn't matter which order you launch GSPro or the **Connect R10** app, but there's a bug with **APIv1 Connect**, where it won't reestablish a connection if the **Connect R10** application exits. If you find your self unable to send shot data, simply restart the GSPro or the **APIv1 Connect** application to reconnect.
 
-### Up Next: [Connecting the Approach R10](./connect-approach-r10)
+### Up Next: [Connecting the Approach R10](./approach-r10)
