@@ -1,6 +1,7 @@
 ---
 title: Reverse Engineering The Approach R10's Bluetooth
 layout: post
+parent: Articles
 ---
 
 # Reverse Engineering The Approach R10's Bluetooth
@@ -34,3 +35,4 @@ Links:
 - https://twocanoes.com/knowledge-base/capture-bluetooth-packet-trace-on-ios/
 - https://www.bluetooth.com/blog/a-new-way-to-debug-iosbluetooth-applications/
 - https://wiki.wireshark.org/CaptureSetup/Bluetooth
+- https://github.com/OpenFenix/bluetooth-sniffer
