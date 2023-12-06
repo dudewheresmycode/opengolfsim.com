@@ -29,7 +29,21 @@ flowchart LR
 
 It really seems silly to have to run all this just to forward shot data from one device to another. There's far too many points of failure. So I'd like to try and simplify things. My PC has bluetooth capability, and if Garmin was cooler, they would release some documentation on how to better integrate things, but alas, we must retreat to our mylar lined basement and try and hack our way around this problem. If we could intercept the different bluetooth messages sent to and from the Approach R10 device and the GarminApp, we could, in theory cut out the entire iPad part of this process, and handle the bluetooth pairing and communication directly from the PC running the Approach R10 Connect app.
 
-That's the plan at least. I'll try and keep this article updated with my progress.
+Then we could cut out the need for the iPad and GarminGolf and setup would look look something like this:
+
+```mermaid
+flowchart LR
+    Approach(["Garmin Approach R10 Device"])
+    subgraph pc["Desktop PC"]
+        GSPro(["GSPro APIConnect"])
+        ApproachConnect(["Approach R10 Connect"])
+    end
+    Approach --Bluetooth--> ApproachConnect
+    ApproachConnect --GSPro OpenConnect--> GSPro
+
+```
+
+That's the plan at least. I'll try and keep this article updated with my progress, as I dig around. I did find some helpful articles that I'm hoping point me in the right direction.
 
 Links:
 
