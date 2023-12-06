@@ -11,7 +11,7 @@ This guide will walk you through the steps to use your Garmin Approach R10 with 
 
 {: .note }
 
-> Note: The first time you turn on the device, it automatically enters pairing mode, and the status LED is solid blue. You can also hold the button while the device is off until the status LED turns solid blue to manually enter pairing mode. [More information](https://tinyurl.com/yzwh468u)
+> The first time you turn on the device, it automatically enters pairing mode, and the status LED is solid blue. You can also hold the button while the device is off until the status LED turns solid blue to manually enter pairing mode. [More information](https://tinyurl.com/yzwh468u)
 
 <table>
   <tr>
