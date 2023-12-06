@@ -3,7 +3,7 @@ logo: "/assets/opengolf.png"
 
 footer_content: 'Copyright &copy; 2023 OpenGolf - <a href="/privacy">Privacy</a>'
 last_edit_timestamp: true
-last_edit_time_format: "%b %e %Y at %I:%M %p"
+last_edit_time_format: "%b %e %Y"
 
 mermaid:
   # Version of mermaid library
