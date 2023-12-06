@@ -1,5 +1,5 @@
 ---
-title: Approach R10 Connect > Connecting GSPro
+title: Connect GSPro
 parent: Approach R10 Connect
 grand_parent: Tools
 ---

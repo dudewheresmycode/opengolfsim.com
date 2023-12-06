@@ -1,5 +1,5 @@
 ---
-title: Approach R10 Connect > Connecting Garmin Approach R10
+title: Connect Approach R10
 parent: Approach R10 Connect
 grand_parent: Tools
 ---
