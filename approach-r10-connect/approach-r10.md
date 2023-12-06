@@ -9,6 +9,8 @@ This guide will walk you through the steps to use your Garmin Approach R10 with 
 
 1. Download and install the [Garmin Golf](https://www.garmin.com/en-US/p/590068) app for iOS or Android. Use Bluetooth to pair your Garmin Approach R10 with your smartphone or tablet running the Garmin Golf app. Then from the app menu, select <b>Garmin Devices > Add Device</b>, and follow the on-screen instructions.
 
+{: .note }
+
 > Note: The first time you turn on the device, it automatically enters pairing mode, and the status LED is solid blue. You can also hold the button while the device is off until the status LED turns solid blue to manually enter pairing mode. [More information](https://tinyurl.com/yzwh468u)
 
 <table>
@@ -34,7 +36,7 @@ This guide will walk you through the steps to use your Garmin Approach R10 with 
   </tr>
   <tr>
     <td>
-4. Enter the <b>Host</b> (ip address) of the computer running GSPro, which is displayed in the <b>Approach R10 Connect</b> app. (You shouldn't have to change the port)
+4. Enter the <b>Host</b> (IP address) of the computer running GSPro, which is displayed in the <b>Approach R10 Connect</b> app. (You shouldn't have to change the port)
     </td>
     <td halign="center">
       <a href="/assets/garmin-golf/3-e6-ip.jpg" target="_blank">
