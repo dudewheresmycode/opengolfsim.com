@@ -4,7 +4,7 @@ parent: Approach R10 Connect
 grand_parent: Tools
 ---
 
-## GSPro Setup Guide
+# GSPro Setup Guide
 
 ### Step 1
 
