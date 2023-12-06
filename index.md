@@ -1,5 +1,6 @@
 ---
 title: OpenGolf
+layout: home
 ---
 
 <p align="center">
