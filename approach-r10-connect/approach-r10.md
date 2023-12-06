@@ -64,4 +64,4 @@ This guide will walk you through the steps to use your Garmin Approach R10 with 
 
 ### Up Next
 
-[Connecting GSPro](./gspro){: .btn }
+[Connecting GSPro](./gspro.html){: .btn }

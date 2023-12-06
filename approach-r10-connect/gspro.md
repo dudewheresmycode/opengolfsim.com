@@ -20,4 +20,4 @@ parent: Approach R10 Connect
 
 ### Up Next
 
-[Connecting the Approach R10](./approach-r10){: .btn }
+[Connecting the Approach R10](./approach-r10.html){: .btn }
