@@ -6,7 +6,7 @@ grand_parent: Tools
 
 # Connecting Garmin Approach R10
 
-This guide will walk you through the steps to use your Garmin Approach R10 with GSPro Golf Simulator, using the [Approach R10 Connect](./index) app.
+This guide will walk you through the steps to use your Garmin Approach R10 with GSPro Golf Simulator, using the [Approach R10 Connect](/tools/approach-r10-connect/) app.
 
 {: .note }
 
