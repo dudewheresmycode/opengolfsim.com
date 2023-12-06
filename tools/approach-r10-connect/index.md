@@ -11,7 +11,7 @@ parent: Tools
 
 <p style="margin-top: 1rem;">
   <span class="fs-8">
-    <a class="btn" href="https://github.com/dudewheresmycode/gspro-openconnect-approach-r10/releases/latest" target="\_blank">⬇ Download for Windows</a>
+    <a class="btn btn-blue" href="https://github.com/dudewheresmycode/gspro-openconnect-approach-r10/releases/latest" target="\_blank">⬇ Download for Windows</a>
   </span>
 </p>
 
