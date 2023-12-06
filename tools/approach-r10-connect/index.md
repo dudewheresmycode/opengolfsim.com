@@ -1,7 +1,8 @@
 ---
 title: Approach R10 Connect
-nav_order: 2
+nav_order: 1
 has_children: true
+parent: Tools
 ---
 
 <img src="/assets/approach_r10_connect/window.png" />
