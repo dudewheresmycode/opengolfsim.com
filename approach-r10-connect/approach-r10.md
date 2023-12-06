@@ -1,5 +1,6 @@
 ---
 title: Garmin Approach R10 Setup Guide
+parent: Approach R10 Connect
 ---
 
 ## Garmin Approach R10 Setup Guide
