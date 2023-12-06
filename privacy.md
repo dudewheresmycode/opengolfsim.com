@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+nav_exclude: true
 ---
 
 <h1>Privacy Policy for OpenGolf</h1>
