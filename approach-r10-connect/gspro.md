@@ -13,9 +13,9 @@ Open **GSPro** and select **GSPro Connect API** as your Launch Monitor source.
 
 Start the game from the GSPro Launch Menu, and the **APIv1 Connect** window should open as well.
 
-| GSPro                                       | Connect API                                        |
-| ------------------------------------------- | -------------------------------------------------- |
-| <img src="/assets/GSPro.jpg" width="400" /> | <img src="/assets/APIv1Connect.jpg" width="400" /> |
+| GSPro                                                   | Connect API                                             |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| <img src="/assets/gspro/main_window.jpg" width="400" /> | <img src="/assets/gspro/api_connect.jpg" width="400" /> |
 
 {: .note }
 

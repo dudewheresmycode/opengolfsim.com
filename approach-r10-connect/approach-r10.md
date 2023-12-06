@@ -36,7 +36,7 @@ This guide will walk you through the steps to use your Garmin Approach R10 with 
   </tr>
   <tr>
     <td>
-4. Enter the <b>Host</b> (IP address) of the computer running GSPro, which is displayed in the <b>Approach R10 Connect</b> app. (You shouldn't have to change the port)
+4. Enter the <b>Host</b> (IP address) of the computer running GSPro and the Approach R10 Connect app, which is displayed in the main window of the <b>Approach R10 Connect</b> app. (You shouldn't have to change the port)
     </td>
     <td halign="center">
       <a href="/assets/garmin-golf/3-e6-ip.jpg" target="_blank">
