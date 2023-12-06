@@ -8,16 +8,16 @@ grand_parent: Tools
 
 This guide will walk you through the steps to use your Garmin Approach R10 with GSPro Golf Simulator, using the [Approach R10 Connect](./index) app.
 
+{: .note }
+
+> The first time you turn on the device, it automatically enters pairing mode, and the status LED is solid blue. You can also hold the button while the device is off until the status LED turns solid blue to manually enter pairing mode. [More information](https://tinyurl.com/yzwh468u)
+
 <table>
   <tr>
-    <td colspan="2">
-      1. Download and install the [Garmin Golf](https://www.garmin.com/en-US/p/590068) app for iOS or Android. Use Bluetooth to pair your Garmin Approach R10 with your smartphone or tablet running the Garmin Golf app. Then from the app menu, select <b>Garmin Devices > Add Device</b>, and follow the on-screen instructions.
-
-      {: .note }
-
-      > The first time you turn on the device, it automatically enters pairing mode, and the status LED is solid blue. You can also hold the button while the device is off until the status LED turns solid blue to manually enter pairing mode. [More information](https://tinyurl.com/yzwh468u)
+    <td>
+      1. Download and install the <a href="https://www.garmin.com/en-US/p/590068" target="_blank">Garmin Golf</a> app for iOS or Android. Use Bluetooth to pair your Garmin Approach R10 with your smartphone or tablet running the Garmin Golf app. Then from the app menu, select <b>Garmin Devices > Add Device</b>, and follow the on-screen instructions.
     </td>
-
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>
