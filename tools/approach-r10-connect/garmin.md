@@ -2,6 +2,7 @@
 title: Connect Garmin Golf
 parent: Approach R10 Connect
 grand_parent: Tools
+published: false
 ---
 
 # Connecting Garmin Approach R10
