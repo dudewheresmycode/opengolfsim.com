@@ -9,9 +9,12 @@ After seeing a few other cool DIY boxes online, I decided to try my hand at buil
 
 The box connects to the PC via an arcade USB encoder (I'd love to upgrade to a wireless version). It appears on the PC as a joystick device, not a normal keyboard. So I needed to write a few scripts and tools for connecting the buttons with actions on GSPro.
 
+<img src="../assets/button_box_01.jpg" />
+<img src="../assets/button_box_02.jpg" />
+
 ## Building the Box
 
-Building the box is fairly easy, you could use anything from a cardboard box to a masterpiece crafted out of burled walnut. Mine fell somewhere in the middle. I used some spare furring strips and plywood I had laying around
+Building the box is fairly easy, you could use anything from a cardboard box to a masterpiece crafted out of burled walnut. Mine fell somewhere in the middle. I used some spare furring strips and chip-board I had laying around
 
 ### Parts
 

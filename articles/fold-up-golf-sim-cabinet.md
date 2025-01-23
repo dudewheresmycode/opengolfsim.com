@@ -1,5 +1,5 @@
 ---
-title: DIY Folding Golf Sim Cabinet
+title: DIY Murphy-Bed Style Golf Sim
 layout: post
 parent: Articles
 last_modified_date: 2024-10-01
@@ -7,7 +7,7 @@ last_modified_date: 2024-10-01
 
 <img src="/assets/golf-sim-2024.jpg" />
 
-# DIY Murphy-Bed Style Golf Sim Cabinet
+# DIY Murphy-Bed Style Golf Sim
 
 I'm now in my 3rd year of golf sim-ing in my garage. The first year I purchased my Garmin R10 and a cheap golf net off Amazon. Eventually I added a cheap projector and a $20 Walmart projector screen that I zip tied to the net. While this worked pretty well, it wasn't very secure or pretty. It also allowed bad shanks to fly around the garage.
 
@@ -15,18 +15,25 @@ Last year, I decided to step my game up a little, and I built a basic hitting ba
 
 Now I'm in my third year of my garage golf sim and decided to pull out all the stops. My biggest gripe with having the simulator was that I couldn't use my garage while it was up. It just took up too much space. I saw [this company](https://www.murphygolfsimulators.com/dimensions) was making murphy-bed style folding simulators. This seemed like the perfect thing, but they ain't cheap. I figured I could design and build one myself for a fraction of the price.
 
-Bill of Materials (BOM)
+### Bill of Materials (BOM)
+
+(in progress)
 
 - 2&times;4s for cabinet frame
 - 1&times;4s for door frame
-- Particle Board
+- Particle Board for doors
 - 6x 6" Tee Hinges
-- 123x96 Custom Carl's Golf Screen (For built-in rooms)
-- BenQ TH671ST Projector
 - 12ft of Lowe's Grizzly Grass
 - 1/4" plywood sheathing (for flooring)
 - 1&times;2s for floor frame
 - 1 1/2" foam insulation
+
+### Purchased Software &amp; Equipment
+
+- 123x96 Custom Carl's Golf Screen (For built-in rooms)
+- BenQ TH671ST Projector
+- Garmin Approach R10 (Launch Monitor)
+- Sigpro Softy Hitting Strip
 
 ## Photos
 
@@ -71,6 +78,6 @@ Bill of Materials (BOM)
 
 > Finished space!
 
-I still need to add some hinges and a hoist to pull the flooring up into the cabinet, but once I was able to start playing rounds on it, it got very hard to finish the last bits.
+#TODO: I still need to add some hinges and a hoist to pull the flooring up into the cabinet, but once I was able to start playing rounds on it, it got very hard to finish those last few last bits.
 
-If you're on the fence about building a sim, GO FOR IT! And good luck in your builds. Cheers!
+If you're on the fence about building a sim, GO FOR IT! Cheers!
