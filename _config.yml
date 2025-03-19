@@ -1,5 +1,5 @@
-# remote_theme: just-the-docs/just-the-docs
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+# theme: just-the-docs
 logo: "/assets/ogs-logo.svg"
 color_scheme: ogs
 
@@ -12,7 +12,7 @@ show_excerpts: true
 aux_links:
   # Shop:
   #   - https://opengolfsim.com
-  Contact:
+  Contact Us:
     - /contact
 
 exclude: [brian, .vscode, _site]
