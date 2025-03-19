@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1024 1024">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        mask: url(#mask);
+      }
+
+      .st1 {
+        filter: url(#luminosity-noclip);
+      }
+
+      .st2 {
+        fill: #231f20;
+      }
+
+      .st3 {
+        fill: #fff;
+      }
+
+      .st4 {
+        fill: #292c2d;
+      }
+    </style>
+    <filter id="luminosity-noclip" x="115.6" y="-55.8" width="792.7" height="1191.7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="115.6" y="-55.8" width="792.7" height="1191.7" maskUnits="userSpaceOnUse">
+      <g class="st1">
+        <rect class="st2" x="453.8" y="-60.4" width="102.9" height="1200.9" transform="translate(140.3 -103.2) rotate(13.5)"/>
+      </g>
+    </mask>
+  </defs>
+  <circle class="st4" cx="512" cy="512" r="478.9"/>
+  <g class="st0">
+    <path class="st3" d="M512.7,908.4c-31.1,0-62.4-3.7-93.4-11.1-102.9-24.7-190-88.1-245.3-178.3-55.3-90.3-72.1-196.6-47.3-299.5,24.7-102.9,88.1-190,178.3-245.3,90.3-55.3,196.6-72.1,299.5-47.3,102.9,24.7,190,88.1,245.3,178.3,55.3,90.3,72.1,196.6,47.3,299.5s-88.1,190-178.3,245.3c-63.1,38.6-134,58.5-206.2,58.5ZM511.4,183.2c-59.8,0-118.7,16.5-171,48.5-74.9,45.8-127.4,118.1-147.9,203.4s-6.6,173.6,39.2,248.5c45.8,74.9,118.1,127.4,203.4,147.9,85.4,20.5,173.6,6.6,248.5-39.2,74.9-45.8,127.4-118.1,147.9-203.4s6.6-173.6-39.2-248.5c-45.8-74.9-118.1-127.4-203.4-147.9-25.7-6.2-51.7-9.2-77.5-9.2Z"/>
+  </g>
+  <g>
+    <circle class="st3" cx="783.7" cy="444.7" r="20.8"/>
+    <circle class="st3" cx="783.7" cy="555.8" r="20.8"/>
+    <circle class="st3" cx="783.7" cy="500.3" r="20.8"/>
+    <circle class="st3" cx="728.2" cy="555.8" r="20.8"/>
+    <circle class="st3" cx="728.2" cy="611.3" r="20.8"/>
+    <circle class="st3" cx="728.2" cy="500.3" r="20.8"/>
+    <circle class="st3" cx="728.2" cy="444.7" r="20.8"/>
+    <circle class="st3" cx="728.2" cy="388.9" r="20.8"/>
+    <circle class="st3" cx="728.2" cy="666.9" r="20.8"/>
+    <circle class="st3" cx="672.6" cy="555.8" r="20.8"/>
+    <circle class="st3" cx="672.6" cy="611.3" r="20.8"/>
+    <circle class="st3" cx="672.6" cy="500.3" r="20.8"/>
+    <circle class="st3" cx="672.6" cy="666.9" r="20.8"/>
+    <circle class="st3" cx="672.6" cy="722.4" r="20.8"/>
+    <circle class="st3" cx="617.1" cy="555.8" r="20.8"/>
+    <circle class="st3" cx="617.1" cy="611.3" r="20.8"/>
+    <circle class="st3" cx="617.1" cy="500.3" r="20.8"/>
+    <circle class="st3" cx="617.1" cy="666.9" r="20.8"/>
+    <circle class="st3" cx="617.1" cy="722.4" r="20.8"/>
+    <circle class="st3" cx="561.5" cy="611.3" r="20.8"/>
+    <circle class="st3" cx="561.5" cy="666.9" r="20.8"/>
+    <circle class="st3" cx="561.5" cy="722.4" r="20.8"/>
+    <circle class="st3" cx="561.5" cy="778" r="20.8"/>
+    <circle class="st3" cx="506" cy="611.3" r="20.8"/>
+    <circle class="st3" cx="506" cy="666.9" r="20.8"/>
+    <circle class="st3" cx="506" cy="722.4" r="20.8"/>
+    <circle class="st3" cx="506" cy="778" r="20.8"/>
+    <circle class="st3" cx="450.5" cy="722.4" r="20.8"/>
+    <circle class="st3" cx="394.9" cy="722.4" r="20.8"/>
+    <circle class="st3" cx="450.5" cy="778" r="20.8"/>
+  </g>
+</svg>

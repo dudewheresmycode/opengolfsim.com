@@ -1,26 +1,30 @@
 ---
-# title: Golden Tee Simulator
+title: Golden Tee on the Sim
 layout: post
-parent: Articles
-permalink: /articles/golden-tee-simulator
+# parent: Articles
 last_modified_date: 2025-01-23
+thumbnail: /assets/goldenpro/goldenpro_thumb.jpg
+excerpt: Hacked together a way to play GoldenTee Classic on my simulator
 ---
 
-<img width="640" src="../assets/goldentee-splash.jpg" alt="Golden Tee Classic" />
+<img width="640" src="/assets/goldenpro/goldenpro_screen.jpg" alt="Golden Tee Classic" />
 
-# Golden Tee Classic on the Golf Sim
+I remember red plastic cups filled with Surge and hanging at the local pizza place playing arcade games. Flinging that greasy Golden Tee trackball as hard as I could, usually shanking the shot into the woods.
 
-Find me a millennial that doesn't have fond memories of hanging at the pizza place playing arcade games and flinging that greasy Golden Tee trackball just as hard as you could.
-
-As a fun nostalgia project, I decided to try and see if I could figure out a way to play Golden Tee Classic on my freshly built [DIY golf simulator](/articles/fold-up-golf-sim-cabinet).
+So as a fun nostalgia project, I decided to try and see if I could figure out a way to play Golden Tee Classic on my freshly built [DIY golf simulator]({{ site.baseurl }}{% link _posts/2024-10-01-diy-murphy-bed-golf-sim.md %}).
 
 In past projects, I've played around with the [Mame](https://www.mamedev.org/) arcade video game emulator. You can download a variety of old games as ROMs and use Mame to play them on your PC. So I started by searching around for a ROM for the classic Golden Tee arcade game. A few visits to some quasi-sketchy ROM sites later, I was playing Golden Tee Classic on my PC using my keyboard! 🎉 Now for the fun part, hacking the shit out of it until I figure out how script trackball movements.
+
+## Links
+
+- [Github Project](https://github.com/dudewheresmycode/golden-pro-sim)
+- [MAME](https://www.mamedev.org/)
 
 ## Required Equipment
 
 - **Launch Monitor**
 
-  I built this using the Approach R10 and the [gsp-r10-adapter](https://github.com/mholow/gsp-r10-adapter), but in theory any launch monitor that connects to GSPro's OpenConnect API should work.
+  I built this using my Approach R10 and the [gsp-r10-adapter](https://github.com/mholow/gsp-r10-adapter), but in theory any launch monitor that can connect to GSPro's OpenConnect API should work.
 
 - **PC Computer**
 

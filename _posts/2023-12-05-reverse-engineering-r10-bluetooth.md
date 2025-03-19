@@ -1,12 +1,10 @@
 ---
 title: Reverse Engineering The Approach R10's Bluetooth
 layout: post
-parent: Articles
+# parent: Articles
 last_modified_date: 2023-12-05
 published: false
 ---
-
-# Reverse Engineering The Approach R10's Bluetooth
 
 My setup is, like I imagine most DIY home golf simulators are, complicated. I use a Garmin Approach R10 connected via Bluetooth to an iPad running the GarminGolf app. Then I connect GarminGolf to the [Approach R10 Connect](/tools/approach-r10-connect/) app, over the E6 Connect API. Which forwards shot data to GSPro using their [OpenConnect](https://gsprogolf.com/GSProConnectV1.html) API.
 

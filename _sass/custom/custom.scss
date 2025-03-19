@@ -5,3 +5,140 @@
   padding: $sp-2;
   width: 100%;
 }
+.site-header {
+  // display: flex;
+  min-height: 4.75rem;
+  // align-items: center;
+}
+.main-header {
+  min-height: 4.75rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #2BB673;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 6px;
+  border: 0;
+  @media only screen and (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+.button:hover {
+  background-color: #4cdc96;
+}
+.button:active {
+  background-color: #174b32;
+}
+.main-content ul.tool-list {
+  // background-color: $grey-lt-100;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  gap: 20px;
+  flex-wrap: wrap;
+
+  li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    min-width: 200px;
+    background-color: $grey-lt-100;
+    // border: 2px solid $grey-dk-100;
+    border-radius: 10px;
+    padding: 20px;
+    flex-basis: 0;
+    h3 {
+      margin: 0;
+    }
+    img  {
+      height: 128px;
+    }
+  }
+  li:before {
+    content: '';
+    display: none;
+  }
+}
+
+.main-content ul.article-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+
+  li:before {
+    content: '';
+    display: none;
+  }
+  li {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 20px;
+
+    .article-list-content {
+      h3 {
+        margin: 0;
+        font-size: 1.5rem;
+      }
+    }
+
+    a.post-image {
+      // flex-grow: 0;
+      width: 100px;
+      margin-right: 10px;
+      flex: 0 0 auto;
+      img {
+        width: 100%;
+      }
+    }
+  }
+}
+
+.app-banner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  background-color: $grey-lt-000;
+  border-radius: 10px;
+  padding: 20px;
+}
+.app-banner-icon {
+  flex-grow: 1;
+  text-align: center;
+}
+.app-banner-icon img {
+  max-width: 128px;
+}
+.app-banner-cta {
+  flex-grow: 1;
+  // text-align: center;
+}
+
+.beta-waitlist {
+  border-radius: 10px;
+  background-color: $red-200;
+  color: $white;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px;
+}
+.beta-waitlist h3 {
+  margin: 0;
+  font-weight: bold;
+  color: $white;
+}
+
+input[type='text'] {
+  border: 15px;
+  border-radius: 5px;
+  border: 0;
+}

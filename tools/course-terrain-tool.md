@@ -1,6 +1,8 @@
 ---
 title: Course Terrain Tool
 parent: Tools
+category: tools
+thumbnail: /assets/icon.png
 ---
 
 # Course Terrain Tool

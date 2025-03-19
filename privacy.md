@@ -86,4 +86,4 @@ nav_exclude: true
 
 <h2>Contact Us</h2>
 
-<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to [contact us](./contact).</p>
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to <a href="/contact">contact us</a>.</p>

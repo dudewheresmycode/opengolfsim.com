@@ -1,7 +1,7 @@
 ---
 title: Putting Camera Improvements
 layout: post
-parent: Articles
+# parent: Articles
 last_modified_date: 2023-12-05
 published: false
 ---
