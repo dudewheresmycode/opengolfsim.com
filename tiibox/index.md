@@ -3,6 +3,7 @@ title: Tiibox for iOS & Android
 nav_order: 3
 category: tools
 thumbnail: /assets/tiibox_icon.png
+has_children: true
 ---
 
 
