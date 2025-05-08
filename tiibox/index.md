@@ -1,5 +1,5 @@
 ---
-title: Tiibox for iOS & Android
+title: OpenGolfSim for iOS & Android
 nav_order: 3
 category: tools
 thumbnail: /assets/tiibox_icon.png
@@ -12,7 +12,7 @@ has_children: true
     <img src="/assets/tiibox_icon.png" height="64" style="border-radius: 10%" />
   </div>
   <div class="app-banner-cta">
-    <h1>Tiibox Mobile</h1>
+    <h1>OpenGolfSim Mobile</h1>
     <h3>Control GSPro from your phone or tablet</h3>
     <div style="height: 45px;">
       Coming soon!
@@ -24,7 +24,7 @@ has_children: true
 
 <div class="beta-waitlist">
   <h3>Beta Waitlist</h3>
-  <p>Tiibox is still in development and will enter open beta soon. Enter your email below to join the beta invite waitlist!</p>
+  <p>OpenGolfSim is still in development and will enter open beta soon. Enter your email below to join the beta invite waitlist!</p>
   <div class="waitlist-form">
     <form action="https://formspree.io/f/xovevonj" method="POST">
       <label for="email_addr">Your email:</label>
