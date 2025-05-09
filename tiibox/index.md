@@ -2,14 +2,14 @@
 title: OpenGolfSim for iOS & Android
 nav_order: 3
 category: tools
-thumbnail: /assets/tiibox_icon.png
+thumbnail: /assets/white_256x256.png
 has_children: true
 ---
 
 
 <div class="app-banner">
   <div class="app-banner-icon">
-    <img src="/assets/tiibox_icon.png" height="64" style="border-radius: 10%" />
+    <img src="/assets/white_256x256.png" height="64" style="border-radius: 10%" />
   </div>
   <div class="app-banner-cta">
     <h1>OpenGolfSim Mobile</h1>
@@ -36,7 +36,7 @@ has_children: true
 
 
 
-Take full control of GSPro with our mobile app Tiibox! Tiibox is a mobile app for iOS and Android which, along with our desktop app, unlocks full GSPro control and automation.
+Take full control of GSPro with our mobile app! Mobile app is available for iOS and Android which, along with our desktop app, unlocks full GSPro control and automation.
 
 ## Built-In Buttons
 
