@@ -12,8 +12,6 @@ nav_order: 2
   </div>
   <div class="app-banner-cta">
     <h1>OpenGolfSim Desktop</h1>
-    <!-- <h3>Version 1.0 Beta</h3>
-    <a class="button dl-button" href="#">Download for Windows</a> -->
   </div>
 </div>
 

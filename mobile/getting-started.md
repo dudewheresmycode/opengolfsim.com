@@ -1,5 +1,5 @@
 ---
-parent: OpenGoifSim for iOS & Android
+parent: OpenGolfSim Mobile
 title: Getting Started
 thumbnail: /assets/white_256x256.png
 nav_order: 1

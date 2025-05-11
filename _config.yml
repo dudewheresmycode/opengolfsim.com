@@ -1,6 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 # theme: just-the-docs
-logo: "/assets/ogs-logo.svg"
+logo: "/assets/logo-clear-white.svg"
 color_scheme: ogs
 
 footer_content: 'Copyright &copy; 2025 OpenGolfSim LLC - <a href="/privacy">Privacy</a> - <a href="/terms">Terms and Conditions</a>'

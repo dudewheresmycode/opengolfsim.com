@@ -1,14 +1,10 @@
 ---
-title: Tools
+title: Course Building Tools
 nav_order: 4
 has_children: true
 ---
 
-A collection of open-source apps and tools for golf simulation and launch monitors.
-
+We also build and maintain some open-source golf simulation and course building tools.
+<!-- 
 - [Course Terrain Tool](./course-terrain-tool)
-- [TiiBox](./tiibox)<br>
-  A utility to allow assignment of keypad/joystick inputs to GSPro actions, like aiming, mulligan, and drops. Useful for building button boxes using existing gaming or arcade devices.
-
-- [OpenGolfSim for Windows](./ogs-windows)<br>
-  Our main desktop app for an enhanced GSPro experience. Control, replays, export shot data and more!
+    CTT is a desktop application for acquiring and processing raw elevation data into height map files used for building virtual courses. -->

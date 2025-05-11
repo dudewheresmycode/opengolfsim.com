@@ -1,24 +1,24 @@
-// @import "./color_schemes/dark";
+@import "./color_schemes/dark";
 
 
-$white: #fff;
-$grey-dk-000: #959396;
+// $white: #fff;
+// $grey-dk-000: #eee;
 // $grey-dk-100: #5c5962;
-// $grey-dk-200: #44434d;
+$grey-dk-200: #44434d;
 // $grey-dk-250: #302d36;
-$grey-dk-300: #26282b;
+$grey-dk-300: #1d2123;
 // $grey-lt-000: #f5f6fa;
-$grey-lt-100: #eeebee;
+// $grey-lt-100: #eeebee;
 // $grey-lt-200: #ecebed;
 // $grey-lt-300: #e6e1e8;
 // $purple-000: #7253ed;
 // $purple-100: #5e41d0;
 // $purple-200: #4e26af;
 // $purple-300: #381885;
-$blue-000: #3d5476;
-// $blue-100: #2869e6;
-// $blue-200: #264caf;
-// $blue-300: #183385;
+// $blue-000: #16ab48;
+// $blue-100: #ff0000;
+// $blue-200: #aa22ff;
+$blue-300: #4f9cdb;
 // $green-000: #41d693;
 // $green-100: #11b584;
 // $green-200: #2BB673;
@@ -34,5 +34,7 @@ $blue-000: #3d5476;
 
 
 // $blue-000: #3d5476;
-$link-color: $grey-dk-300;
+$link-color: #16ab48; // $grey-dk-300;
+$body-background-color: $grey-dk-300;
+$sidebar-color: $grey-dk-300;
 

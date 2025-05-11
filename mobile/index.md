@@ -1,5 +1,5 @@
 ---
-title: OpenGolfSim for iOS & Android
+title: OpenGolfSim Mobile
 nav_order: 3
 category: tools
 thumbnail: /assets/white_256x256.png
@@ -13,16 +13,10 @@ has_children: true
   </div>
   <div class="app-banner-cta">
     <h1>OpenGolfSim Mobile</h1>
-    <h3>Control GSPro from your phone or tablet</h3>
-    <div style="height: 45px;">
-      Coming soon!
-      <!-- <img src="/assets/app_store.svg" style="height:45px" />
-      <img src="/assets/google_play.svg" style="height:45px" /> -->
-    </div>
   </div>
 </div>
 
-<div class="beta-waitlist">
+<!-- <div class="beta-waitlist">
   <h3>Beta Waitlist</h3>
   <p>OpenGolfSim is still in development and will enter open beta soon. Enter your email below to join the beta invite waitlist!</p>
   <div class="waitlist-form">
@@ -32,7 +26,7 @@ has_children: true
       <button class="button" type="submit">Join Waitlist</button>
     </form>
   </div>
-</div>
+</div> -->
 
 
 
@@ -54,7 +48,7 @@ Take full control of GSPro with our mobile app! Mobile app is available for iOS 
 - Range Finder
 
 
-## Additional Features
+## Coming Soon
 
 - **Automation**
   - Exit Round

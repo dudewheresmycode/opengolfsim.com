@@ -40,16 +40,16 @@ Once installed:
 
 ## Next Steps
 
-### [Mobile App Installation](https://help.opengolfsim.com/article/14-installing-opengolfsim-for-ios-android)
+### [Mobile App Installation](/mobile/)
 
 Install the companion app on your iOS or Android device to control GSPro wirelessly.
 
-### [Video Replay Setup](https://help.opengolfsim.com/article/16-video-replay)
+### [Video Replay Setup](/desktop/video)
 
 Learn how to configure webcam-based video replay after each shot.
 
 ---
 
-**Note:** For more detailed install help, see the [full installation documentation](https://help.opengolfsim.com/article/4-opengolfsim-desktop).
+**Note:** For more detailed install help, see the [full installation documentation](/desktop/installation-guide).
 
 

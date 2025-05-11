@@ -5,6 +5,8 @@ layout: post
 last_modified_date: 2025-01-23
 thumbnail: /assets/goldenpro/goldenpro_thumb.jpg
 excerpt: Hacked together a way to play GoldenTee Classic on my simulator
+published: false
+
 ---
 
 <img width="640" src="/assets/goldenpro/goldenpro_screen.jpg" alt="Golden Tee Classic" />

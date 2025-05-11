@@ -1,6 +1,6 @@
 ---
 title: Course Terrain Tool
-parent: Tools
+parent: Course Building Tools
 category: tools
 thumbnail: /assets/icon.png
 ---
