@@ -1,11 +1,11 @@
 ---
 parent: OpenGolfSim Desktop
-title: Getting Started
+title: Quick Start Guide
 thumbnail: /assets/appicon.svg
 nav_order: 1
 ---
 
-# Getting Started
+# Quick Start Guide
 
 ## What is OpenGolfSim Desktop?
 
