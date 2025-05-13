@@ -19,10 +19,10 @@ To get started, download the latest release from our [downloads page](https://sa
 
 Once downloaded, run the `OpenGolfSim-x.x.x Setup.exe` installer from your downloads folder.
 
-!!! warning
-    You may see a **"Windows protected your PC"** popup. This is expected while we finalize Microsoft code signing for our application.
+{: .note }
+> You may see a **"Windows protected your PC"** popup. This is expected while we finalize Microsoft code signing for our application.
 
-    Click **More Info**, then select **Run anyway** to continue.
+Click **More Info**, then select **Run anyway** to continue.
 
 <img src="/assets/OGS_Documentation/windows_signing1.png" alt="Windows SmartScreen - Step 1" width="400" />
 <br />
