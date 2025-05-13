@@ -9,7 +9,9 @@ nav_order: 1
 
 ## What is OpenGolfSim Desktop?
 
-OpenGolfSim Desktop is the core connector app that allows GSPro to interface with our mobile app, video replay, and other tools.
+OpenGolfSim is the core platform that connects your hardware, software, and gameplay into one seamless golf simulation experience. The OpenGolfSim Desktop app runs on Windows and acts as the central hub—managing your control box, mobile app, video replay, and more. 
+
+This quick start guide is for the TL;DR crowd—just the essentials to get the app running and jump into a round.
 
 ---
 
@@ -48,6 +50,9 @@ Install the companion app on your iOS or Android device to control GSPro wireles
 
 Learn how to configure webcam-based video replay after each shot.
 
+### [Shot Data Setup](/desktop/shot-data)
+
+Learn how you can parse shot data from GSPro to allow you to review and save your shot data after a round.
 ---
 
 **Note:** For more detailed install help, see the [full installation documentation](/desktop/installation-guide).

@@ -32,6 +32,8 @@ has_children: true
 
 Take full control of GSPro with our mobile app! Mobile app is available for iOS and Android which, along with our desktop app, unlocks full GSPro control and automation.
 
+<img src="/assets/OGS_Documentation/mobile-app-ss.png" width="100%" style="max-width: 300px;" />
+
 ## Built-In Buttons
 
 - Aim / Distance

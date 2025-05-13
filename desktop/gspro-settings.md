@@ -22,7 +22,7 @@ To make sure the mulligan button works during a round:
 3. Set **Mulligans** to **Yes**.
 4. Save and exit.
 
-<img src="/assets/OGS_Documentation/mulligan.png" alt="Windows SmartScreen - Step 1" width="800" />
+<img src="/assets/OGS_Documentation/mulligan.png" width="100%" style="max-width: 400px;" />
 
 {: .note }
 > If you don’t load a course first, you won’t see the mulligan setting in the menu.
@@ -37,7 +37,7 @@ To enable aim guidance and make distance adjustments possible:
 2. Enable **SHOW AIM INDICATOR**.
 3. Save and exit.
 
-<img src="/assets/OGS_Documentation/show-aim-indicator.png" alt="Windows SmartScreen - Step 1" width="800" />
+<img src="/assets/OGS_Documentation/show-aim-indicator.png" width="100%" style="max-width: 400px;" />
 
 ---
 
@@ -50,7 +50,7 @@ These tweaks help you get better on-screen feedback when using distance-related 
 3. Set the display location to **UP** for easier visibility during play.
 4. Save and exit.
 
-<img src="/assets/OGS_Documentation/display_distance.png" alt="Windows SmartScreen - Step 1" width="800" />
+<img src="/assets/OGS_Documentation/display_distance.png" width="100%" style="max-width: 400px;" />
 ---
 
 If something’s still not working after adjusting these settings, [contact us](/contact) and we’ll help you sort it out.

@@ -7,7 +7,7 @@ thumbnail: /assets/appicon.svg
 
 # OpenGolfSim Desktop Installation Guide
 
-OpenGolfSim Desktop is our primary Windows application for connecting all your devices and leveling up your golf sim experience. This guide walks you through the installation process and helps resolve common setup issues.
+OpenGolfSim Desktop is the main Windows app that connects your devices and brings everything together for a better golf sim experience. This guide walks you through installation and covers common setup issues so you can get up and running fast.
 
 If you run into something not covered here, [contact us](/contact) and we’ll help you out.
 
@@ -15,28 +15,48 @@ If you run into something not covered here, [contact us](/contact) and we’ll h
 
 ## Download & Installation
 
-To get started, download the latest release from our [downloads page](https://sandbox.opengolfsim.com/account/downloads) on the same PC where you run GSPro.
+To get started, download the latest release of OpenGolfSim Desktop on the same PC where you run GSPro.
 
-Once downloaded, run the `OpenGolfSim-x.x.x Setup.exe` installer from your downloads folder.
+1. Go to our [downloads page](https://sandbox.opengolfsim.com/account/downloads).
+2. If you don’t already have an account, you’ll be prompted to create one. Otherwise, log in with your existing credentials.
+3. Once signed in, return to the [downloads page](https://sandbox.opengolfsim.com/account/downloads).
+4. Click **Download** next to the latest version of OpenGolfSim Desktop.
+
+Save the installer to your PC and run it to begin setup.
 
 {: .note }
 > You may see a **"Windows protected your PC"** popup. This is expected while we finalize Microsoft code signing for our application.
 
 Click **More Info**, then select **Run anyway** to continue.
 
-<img src="/assets/OGS_Documentation/windows_signing1.png" alt="Windows SmartScreen - Step 1" width="400" />
-<br />
-<img src="/assets/OGS_Documentation/windows_signing2.png" alt="Windows SmartScreen - Step 2" width="400" />
+<img src="/assets/OGS_Documentation/windows_signing1.png" width="100%" style="max-width: 400px;" />
+
+<img src="/assets/OGS_Documentation/windows_signing2.png" width="100%" style="max-width: 400px;" />
 
 ---
 
-## First Launch
+## First Launch & Setup
 
-After installation:
+After installation, OpenGolfSim will launch automatically and appear as a new icon in your Windows taskbar. Here’s what happens next:
 
-- OpenGolfSim will start and appear as a new item in your Windows taskbar.
-- This allows it to run in the background as a system service, ready to accept connections from your devices.
-- Sign in with your OpenGolfSim account to finish setup.
+- **Runs in the background**  
+  OpenGolfSim functions as a system service, staying out of the way while staying connected. It boots with Windows, so you don’t need to launch it every time.
 
-You’re now ready to pair it with the mobile app, enable video replay, or just start playing.
+- **Account login required**  
+  The first time you open the app, you’ll be prompted to log in with your OpenGolfSim account. This ties your settings and features (like video replay or cloud sync) to your profile.
+
+- **Firewall prompt (optional)**  
+  On some systems, Windows may ask to allow access. Approve it so the app can communicate with GSPro, your control box, or mobile devices.
+
+- **Auto-updates**  
+  The app will automatically check for updates and apply them in the background, so you’re always running the latest version.
+
+---
+
+Once signed in, you're ready to:
+
+- Pair the mobile app and start using remote controls.
+- Enable and test video replay features.
+- Configure GSPro settings (see the [GSPro Settings](/opengolfsim-desktop/gspro-settings) page).
+- Start a round and play.
 
