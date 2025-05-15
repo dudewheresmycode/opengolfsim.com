@@ -30,9 +30,9 @@ has_children: true
 
 
 
-Take full control of GSPro with our mobile app! Mobile app is available for iOS and Android which, along with our desktop app, unlocks full GSPro control and automation.
+The fastest way to get started is with the OpenGolfSim mobile app. If you’ve got an old phone or tablet collecting dust, repurpose it, tape it to the wall, prop it on a stand, whatever works. It’s way better than hiking back to your rig every time the game forgets you don’t drive like Rory.
 
-<img src="/assets/OGS_Documentation/mobile-app-ss.png" width="100%" style="max-width: 300px;" />
+<img src="/assets/OGS_Documentation/mobile-app-ss.png" width="100%" style="max-width: 700px;" />
 
 ## Built-In Buttons
 
@@ -52,10 +52,6 @@ Take full control of GSPro with our mobile app! Mobile app is available for iOS 
 
 ## Coming Soon
 
-- **Automation**
-  - Exit Round
-  - Launch GSPro
-  - Using our desktop app, you can also create custom automation, unique to your sim.
+  - We are working on some exciting enhancements to this app in the furture, stay tuned!
 
-- **Remote mouse control**
-  - Use our built-in virtual touchpad to control your sim. For the rare occasions when you need to take control of the mouse.
+
