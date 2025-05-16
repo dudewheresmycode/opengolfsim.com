@@ -10,6 +10,8 @@ OpenGolfSim can use one or more connected webcams to automatically record short 
 
 <img src="/assets/replay-preview.jpg" width="100%" style="max-width: 300px;" />
 
+After installing OpenGolfSim be sure to **enable** the Video Replay option from the Video Replay tab. 
+
 ## Webcam Compatibility
 
 Virtually any standard PC webcam that connects over USB should be supported. As long as your system sees it as a web camera.
@@ -46,3 +48,7 @@ We capture and store raw, uncompressed video frames in memory until a shot is tr
 ### Hardware Decoding
 
 For better performance on high framerate captures we try and determine if your system supports hardware-based decoding using CUDA (for nvidia systems). If CUDA support is not detected on your system, you may experience performance issues with higher frame rates or resolutions.
+
+---
+
+If you are having issues or just need advice please, [contact us](/contact) and we’ll help you sort it out.

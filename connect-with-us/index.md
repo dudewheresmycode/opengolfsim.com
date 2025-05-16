@@ -1,9 +1,6 @@
 ---
 title: Connect With Us
-category: tools
-thumbnail: /assets/white_256x256.png
-has_children: true
-nav_order: 5
+nav_exclude: true
 ---
 
 <div class="app-banner">

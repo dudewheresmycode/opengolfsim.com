@@ -17,22 +17,30 @@ OpenGolfSim Desktop can parse shot data from GSPro in real-time, allowing you to
 
 The app stores all shot data that GSPro provides between the tee and the last shot before the cup. This includes:
 
-- Hole number
-- Shot 
-- Club index  
-- Distance 
-- Horizontal Launch Angle  
-- Vertical Launch Angle  
-- Speed 
-- Hole result 
+- Ball Speed
+- Club Speed
+- Angel of Attach  
+- Carry
+- Horizontal Launch Angle (HLA)
+- Vertical Launch Angle (VLA)
+- Loft
+- Back Spin
+- Side Spin 
+- and more! 
 
 This information is stored locally on your PC and tied to your OpenGolfSim account.
+
+**Radar-Based Launch Monitors with GSPro – Accuracy Summary**
+
+Keep in mind radar-based launch monitors like the Garmin R10 measure basic data such as club and ball speed, but rely on calculations for key metrics like spin, carry distance, and shot shape. When used with GSPro, much of the ball data is estimated, not directly measured. For more accurate results, consider a monitor that tracks spin and ball flight directly.
 
 ---
 
 ## Viewing Shot History
 
 You can view past shots in the **Shot Data** section of the desktop app:
+
+After installing OpenGolfSim be sure to **enable** the Collect Shot Data option from the Shot Data tab. 
 
 ---
 
@@ -44,6 +52,7 @@ To export:
 
 1. Go to the **Shot Data** tab
 2. Click **Export CSV**
+3. Select what data to export
 4. Choose a location on your PC to save the file
 
 ---
