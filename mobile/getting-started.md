@@ -9,6 +9,8 @@ nav_order: 1
 
 Follow the guide below to get full control of your GSPro experience using our Android and IOS apps.
 
+**Currently we are invite only to mobile as we are still navigating the launch to Apple and Google play stores.** Expecting full approval in the next week or two(5/19/25)
+
 ## Installation
 
 You can download our OpenGolfSim Mobile app from the App Store or Google Play Store. OpenGolfSim works best on tablets, but should work on any iOS or Android mobile device.

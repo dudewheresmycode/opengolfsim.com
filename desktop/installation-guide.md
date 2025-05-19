@@ -7,7 +7,7 @@ thumbnail: /assets/appicon.svg
 
 # OpenGolfSim Desktop Installation Guide
 
-OpenGolfSim Desktop is the main Windows app that connects your devices and brings everything together for a better golf sim experience. This guide walks you through installation and covers common setup issues so you can get up and running fast.
+OpenGolfSim Desktop is the main Windows app that connects your devices and brings everything together for a better golf sim experience. This guide walks you through installation and covers common setup issues so you can get up and running.
 
 ---
 

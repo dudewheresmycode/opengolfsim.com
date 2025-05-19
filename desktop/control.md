@@ -9,13 +9,14 @@ nav_order: 3
 
 OpenGolfSim gives you two ways to control your golf sim gameplay: using the virtual control box in our mobile app or a physical control box or with a joystick or gamepad device you may have sitting around.
 
-Whether you're taking a mulligan, adjusting aim, or triggering a drop, these methods give you quick access to core gameplay actions without walking over to your setup and fumbling for the keyboard or mouse.
+Take a mulligan, adjusting aim, or triggering a drop, these methods give you access to gameplay actions without walking over to your setup and fumbling for the keyboard or mouse.
 
 ---
 
 ## Mobile App
+**Currently we are invite only to mobile as we are still navigating the launch to Apple and Google play stores.** Expecting full approval in the next week or two(5/19/25)
 
-The fastest way to get started is with the OpenGolfSim mobile app. If you’ve got an old phone or tablet collecting dust, repurpose it, tape it to the wall, prop it on a stand, whatever works. It’s way better than hiking back to your rig every time the game forgets you don’t drive like Rory.
+The fastest way to get started is with the OpenGolfSim mobile app. If you’ve got an old phone or tablet collecting dust, repurpose it, tape it to the wall, prop it on a stand, whatever works.
 
 To get started, download the app from the [iOS App Store](https://apps.apple.com) or [Google Play](https://play.google.com), install it on your phone or tablet.
 
@@ -81,7 +82,7 @@ Setting up a physical controller is quick and straightforward, just plug it in a
    <img src="/assets/OGS_Documentation/control-setup-options.png" width="100%" style="max-width: 1100px;" />
 
 7. **ENJOY**  
-   Fire up a course and enjoy not having to sprint back to your keyboard every time you want a mulligan. You've earned it.
+   Fire up a course and enjoy not having to sprint back to your keyboard every time you want a mulligan.
 
 ---
    

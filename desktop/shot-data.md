@@ -32,7 +32,7 @@ This information is stored locally on your PC and tied to your OpenGolfSim accou
 
 **Radar-Based Launch Monitors with GSPro – Accuracy Summary**
 
-Keep in mind radar-based launch monitors like the Garmin R10 measure basic data such as club and ball speed, but rely on calculations for key metrics like spin, carry distance, and shot shape. When used with GSPro, much of the ball data is estimated, not directly measured. For more accurate results, consider a monitor that tracks spin and ball flight directly.
+Keep in mind radar-based launch monitors like the Garmin R10 measure basic data such as club and ball speed, but rely on calculations for key metrics like spin, carry distance, and shot shape. When used with GSPro, much of the ball data is estimated, not directly measured.
 
 ---
 
