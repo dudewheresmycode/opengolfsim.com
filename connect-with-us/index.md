@@ -22,7 +22,9 @@ Want to stay connected or see what we're building? Here's where to find us.
 <a href="https://discord.com/invite/RQdFHwT3bQ" target="_blank">
   <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="60"/>
 </a>  
-**Join the community.**  
+
+**Join the community.**
+
 Hop in to ask questions, suggest features, or just hang out.
 
 ---
@@ -31,7 +33,9 @@ Hop in to ask questions, suggest features, or just hang out.
 <a href="https://instagram.com/opengolfsim">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="60"/>
 </a>
+
 **Follow Us**
+
 Behind-the-scenes posts, product previews, and feature updates.
 
 ---
@@ -40,7 +44,9 @@ Behind-the-scenes posts, product previews, and feature updates.
 <a href="#">
   <img src="https://cdn.simpleicons.org/tiktok/000000" alt="TikTok" width="60"/>
 </a>  
-**Coming soon.**  
+
+**Coming soon.**
+
 Short-form demos, reactions, and some fun stuff that doesn’t belong anywhere else.
 
 ---
