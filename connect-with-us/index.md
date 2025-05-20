@@ -44,7 +44,7 @@ Behind-the-scenes posts, product previews, and feature updates.
 
 ## **TikTok**  
 <a href="#">
-  <img src="https://cdn.simpleicons.org/tiktok/000000" alt="TikTok" width="60"/>
+  <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" alt="TikTok" width="60"/>
 </a>  
 
 **Coming soon.**
