@@ -3,16 +3,7 @@ title: Connect With Us
 nav_exclude: true
 ---
 
-<div class="app-banner">
-  <div class="app-banner-icon">
-    <img src="/assets/white_256x256.png" height="64" />
-  </div>
-  <div class="app-banner-cta">
-    <h1>OpenGolfSim Desktop</h1>
-  </div>
-</div>
-
-# **Socials**
+# Social Media
 
 Want to stay connected or see what we're building? Here's where to find us.
 
